@@ -1,0 +1,6 @@
+outs:
+- md5: b7e4fc18beab9fa06cc10afbe1e615d8.dir
+  size: 345720256
+  nfiles: 2
+  hash: md5
+  path: assignment
