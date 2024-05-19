@@ -1,0 +1,12 @@
+[core]
+    remote = practice
+['remote "aip"']
+    url = C:\Users\PC\Downloads\git
+['remote "2019314159"']
+    url = C:\Users\PC\Downloads\git
+['remote "gilgil"']
+    url = gdrive://1MThl2s3m5UcXJ8xFtaAhbzHZPK7p--aw
+['remote "dld"']
+    url = gdrive://10TnH52HxVAzy7yQFLbE0wjWBcyK2IqiP
+['remote "practice"']
+    url = gdrive://1xQNQYziLZbnGA8sdL06Zzssa9FJlXHIt
