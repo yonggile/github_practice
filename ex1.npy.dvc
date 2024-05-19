@@ -1,0 +1,5 @@
+outs:
+- md5: 4eafecf61f91fc9dd21d4f902358eb29
+  size: 340600128
+  hash: md5
+  path: ex1.npy

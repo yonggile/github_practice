@@ -1,0 +1,14 @@
+[core]
+    remote = week10
+['remote "local"']
+    url = ../../storage
+['remote "imgoogle"']
+    url = gdrive://1n9ZtZSyfng89KxUlW9DTlNdIEmbT1xlt
+['remote "week10"']
+    url = gdrive://16UK5x3hI3lytFqOVLfMm-0p_zLsfZe3b
+['remote "hihi"']
+    url = C:\Users\yg140\DVC
+['remote "hihi2"']
+    url = gdrive://16UK5x3hI3lytFqOVLfMm-0p_zLsfZe3b
+['remote "hihi3"']
+    url = gdrive://1xQNQYziLZbnGA8sdL06Zzssa9FJlXHIt
